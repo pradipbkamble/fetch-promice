@@ -1,1 +1,1 @@
-# fetch-promice
+# fetch with firebase generic
